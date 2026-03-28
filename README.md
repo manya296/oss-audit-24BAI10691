@@ -1,8 +1,8 @@
 # Open Source Audit Project – Git
 
 ## Student Details
-Name: YOUR NAME
-Roll Number: YOUR ROLL NUMBER
+Name: MANYA JAJODIA
+Roll Number: 24BAI10691
 
 ## Chosen Software
 Git – Distributed Version Control System
