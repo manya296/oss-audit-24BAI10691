@@ -22,7 +22,7 @@ done
 echo ""
 echo "Checking Git configuration directory..."
 
-# --- Check Git config directory (TODO implemented) ---
+# --- Check Git config directory  ---
 if [ -f ~/.gitconfig ]; then
     ls -l ~/.gitconfig
 else
