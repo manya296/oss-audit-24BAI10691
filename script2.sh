@@ -8,7 +8,7 @@ PACKAGE="git"   # Can change package name if needed
 if dpkg -l | grep -q $PACKAGE; then
     echo "$PACKAGE is installed on this system."
     echo "Package Information:"
-    dpkg -l | grep $PACKAGE
+    dpkg -l | grep $PACKAGE  #Displaying all package details
 else
     echo "$PACKAGE is NOT installed."
 fi
