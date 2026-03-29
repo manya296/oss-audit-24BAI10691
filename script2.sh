@@ -2,7 +2,7 @@
 # Script 2: FOSS Package Inspector
 # Description: Checks if a package is installed and displays version and description.
 
-PACKAGE="git"   # Change package name if needed
+PACKAGE="git"   # Can change package name if needed
 
 # --- Check if package is installed ---
 if dpkg -l | grep -q $PACKAGE; then
