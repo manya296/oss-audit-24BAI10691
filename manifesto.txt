@@ -1,1 +1,6 @@
-On Sun Mar 29 04:43:35 AM IST 2026, I believe open source is about sharing. I use git and I will build a learning platform and share it freely with the community.
+Open Source Manifesto
+Date: 29 March 2026
+
+I use GIT regularly. To me, freedom means sharing.
+In the future, I would like to build learning help platform and share it with the open source community.
+I believe knowledge should be shared and improved collaboratively.
