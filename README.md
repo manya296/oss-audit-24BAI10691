@@ -15,6 +15,9 @@ script4.sh – Log File Analyzer
 script5.sh – Open Source Manifesto Generator  
 
 ## How to Run
+  
+Run the following commands in Linux terminal after navigating to this directory
+  
 chmod +x script1.sh  
 ./script1.sh
 
